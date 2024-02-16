@@ -1,5 +1,3 @@
-# Emoplex
-
 # Source code for our paper
 
 ### Requirements
